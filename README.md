@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hamza <br/><a href="https://github.com/zaxmaya">Student</a>
+<h1>Hi, I'm Hamza
 
 <h2>👨‍💻 Software Projects:</h2>
 
