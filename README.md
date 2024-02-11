@@ -1,6 +1,4 @@
-<h1>Hi, I'm Hamza
-
-<h2>👨‍💻 Software Projects:</h2>
+<h1>Projects:</h1>
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/zaxmaya/Azure-SOC)
